@@ -27,13 +27,19 @@ A modern real-time chat application built with Flutter and Firebase, featuring u
 - **Clean Architecture**: Separation of concerns with proper file organization
 
 ## Screenshots
-
 ### Light Mode
 
 <img src="https://github.com/user-attachments/assets/44540f5e-aa50-49ae-b43b-d7d621f73832" width="24%">
 <img src="https://github.com/user-attachments/assets/7af400b2-0e7e-412a-9390-b8f6f4548aee" width="24%">
 <img src="https://github.com/user-attachments/assets/856b6ee9-12ee-41d3-9a68-c12e3a2b315b" width="24%">
 <img src="https://github.com/user-attachments/assets/69d363c4-bc9b-43a9-a600-cde5bb94afb5" width="24%">
+
+### Dark Mode
+<img src="https://github.com/user-attachments/assets/7cfe396e-8825-46db-bcdd-3d09c74ce434" width="24%">
+<img src="https://github.com/user-attachments/assets/12efa399-89a4-4103-af57-f6e39c529c20" width="24%">
+<img src="https://github.com/user-attachments/assets/8a736d08-aa70-4504-b4da-e39eb022d754" width="24%">
+<img src="https://github.com/user-attachments/assets/1c788fbe-d1fb-4eca-be32-27c42cf0ef74" width="24%">
+
 
 ## Tech Stack
 
