@@ -32,7 +32,11 @@ A modern real-time chat application built with Flutter and Firebase, featuring u
 
 | Register | Login | Home | Chat |
 |----------|-------|------|------|
-| ![Register Screen](./images/register-light.png) | ![Login Screen](./images/login-light.png) | ![Home Screen](./images/home-light.png) | ![Chat Screen](./images/chat-light.png) |
+| ![Register Screen](<img width="393" height="796" alt="Screenshot 2025-12-18 at 1 20 33 AM" src="https://github.com/user-attachments/assets/44540f5e-aa50-49ae-b43b-d7d621f73832" />
+) | ![Login Screen](<img width="393" height="796" alt="Screenshot 2025-12-18 at 1 20 30 AM" src="https://github.com/user-attachments/assets/7af400b2-0e7e-412a-9390-b8f6f4548aee" />
+) | ![Home Screen](<img width="393" height="796" alt="Screenshot 2025-12-18 at 1 19 21 AM" src="https://github.com/user-attachments/assets/856b6ee9-12ee-41d3-9a68-c12e3a2b315b" />
+) | ![Chat Screen](<img width="393" height="796" alt="Screenshot 2025-12-18 at 1 19 32 AM" src="https://github.com/user-attachments/assets/69d363c4-bc9b-43a9-a600-cde5bb94afb5" />
+) |
 
 ## Tech Stack
 
